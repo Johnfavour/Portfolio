@@ -73,10 +73,10 @@ export const navItems = [
     {
       id: 1,
       title: "ChatOn Real-time chat app",
-      des: "Developed a real-time chat app enabling instant, secure messaging and user-friendly interface using React.js. Still under-production(unresponsive on smaller devices)",
+      des: "Developed a real-time chat app enabling instant, secure messaging and user-friendly interface using React.js. ",
       img: "/chat.png",
       iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-      link: "https://dapper-marzipan-f4c490.netlify.app",
+      link: "https://github.com/Johnfavour/Realtime-chat-app.git",
     },
     {
       id: 2,
