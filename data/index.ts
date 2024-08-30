@@ -75,7 +75,7 @@ export const navItems = [
       title: "ChatOn Real-time chat app",
       des: "Developed a real-time chat app enabling instant, secure messaging and user-friendly interface using React.js. ",
       img: "/chat.png",
-      iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
+      iconLists: ["/re.svg", "/tail.svg", "/ts.svg",],//, "/three.svg", "/fm.svg"
       link: "https://github.com/Johnfavour/Realtime-chat-app.git",
     },
     {
@@ -83,7 +83,7 @@ export const navItems = [
       title: "Trello Card Clone",
       des: "A Trello card that mimics Trello's functionality, allowing users to create boards, lists, and draggable cards to organize and manage tasks.",
       img: "/trello.png",
-      iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
+      iconLists: ["/re.svg", "/tail.svg"],//, "/stream.svg", "ts.svg" , "/c.svg"
       link: "https://github.com/Johnfavour/Trello-clone",
     },
     {
@@ -91,7 +91,7 @@ export const navItems = [
       title: "Waste Management Application",
       des: "A software-based waste management application efficiently manages waste collection, schedules pickups, and tracks bin usage through a digital interface.",
       img: "/bin.png",
-      iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
+      iconLists: ["/re.svg", "/tail.svg", "/c.svg"],//"/three.svg", "/ts.svg"
       link: "https://github.com/Johnfavour/waste-management.git",
     },
     {
@@ -99,7 +99,7 @@ export const navItems = [
       title: "Advanced Smart Bin Application",
       des: "Recreating a more functional smart bin with hardware integrations(Under construction)",
       img: "/wastes.png",
-      iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
+      iconLists: ["/re.svg", "/tail.svg", "/ts.svg"],//, "/three.svg", "/gsap.svg"
       link: "https://github.com/Johnfavour/Smart-bin.git",
     },
   ];
