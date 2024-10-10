@@ -49,7 +49,7 @@ export const navItems = [
   
     {
       id: 5,
-      title: "Currently building a Saas Podcast Platform",
+      title: "Currently building a Slack Clone",
       description: "Project Spotlight",
       className: "md:col-span-3 md:row-span-2",
       imgClassName: "absolute right-0 bottom-0 md:w-96 w-60",
@@ -96,11 +96,11 @@ export const navItems = [
     },
     {
       id: 4,
-      title: "Advanced Smart Bin Application",
-      des: "Recreating a more functional smart bin with hardware integrations(Under construction)",
-      img: "/wastes.png",
-      iconLists: ["/re.svg", "/tail.svg", "/ts.svg"],//, "/three.svg", "/gsap.svg"
-      link: "https://github.com/Johnfavour/Smart-bin.git",
+      title: "Book Riding form",
+      des: "Weather-Integrated Ride Booking Platform. It highlights the key feature of weather integration and provides a clear live weather updates",
+      img: "/rides.png",
+      iconLists: ["/re.svg", "/tail.svg"],//, "/three.svg", "/gsap.svg , "/ts.svg""
+      link: "https://github.com/Johnfavour/Ride-Booking",
     },
   ];
   
