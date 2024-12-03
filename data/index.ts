@@ -80,11 +80,11 @@ export const navItems = [
     },
     {
       id: 2,
-      title: "Trello Card Clone",
-      des: "A Trello card that mimics Trello's functionality, allowing users to create boards, lists, and draggable cards to organize and manage tasks.",
-      img: "/trello.png",
+      title: "Zentry Landingpage Clone",
+      des: "This project replicates the design and functionality of the original Zentry site, offering a seamless user experience with responsive layouts, dynamic elements and captivating animations.",
+      img: "/zenty.png",
       iconLists: ["/re.svg", "/tail.svg"],//, "/stream.svg", "ts.svg" , "/c.svg"
-      link: "https://github.com/Johnfavour/Trello-clone",
+      link: "https://github.com/Johnfavour/Zentry-Landingpage-clone",
     },
     {
       id: 3,
