@@ -92,7 +92,7 @@ export const navItems = [
       des: "A software-based waste management application efficiently manages waste collection, schedules pickups, and tracks bin usage through a digital interface.",
       img: "/bin.png",
       iconLists: ["/re.svg", "/tail.svg", "/c.svg"],//"/three.svg", "/ts.svg"
-      link: "https://github.com/Johnfavour/waste-management.git",
+      link: "https://github.com/Johnfavour/waste-managements.git",
     },
     {
       id: 4,
