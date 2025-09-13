@@ -49,7 +49,7 @@ export const navItems = [
   
     {
       id: 5,
-      title: "Currently building a Slack Clone",
+      title: "Currently working as a Frontend developer lead in Ezrillee Solutions Limited",
       description: "Project Spotlight",
       className: "md:col-span-3 md:row-span-2",
       imgClassName: "absolute right-0 bottom-0 md:w-96 w-60",
@@ -173,27 +173,41 @@ export const navItems = [
   export const workExperience = [
     {
       id: 1,
-      title: "Alx Software Engineering Internship",
+      title: "Ezrillee Solutions Limited • Full-Time",
+      desc: "As a Frontend Developer Lead , I oversee a team of interns while creating responsive, user-friendly web applications. I also translate Figma designs into clean, maintainable code, and ensure a seamless user experience across devices and browsers.",
+      className: "md:col-span-2",
+      thumbnail: "/exp4.svg",
+    },
+    {
+      id: 2,
+      title: "Trustscrin • Contract",
+      desc: "My responsibility is to create responsive user-friendly web applications. I work closely with designers, backend developers, and other team members to implement new features, maintain existing code, and contribute to improving the overall  of the application.",
+      className: "md:col-span-2",
+      thumbnail: "/exp1.svg",
+    },
+    {
+      id: 3,
+      title: "Alx Software Engineering • Internship",
       desc: "Team collaboration in the development of a web-based platform using React.js, enhancing interactivity.",
       className: "md:col-span-2",
       thumbnail: "/exp1.svg",
     },
     {
-      id: 2,
+      id: 4,
       title: "Full-Stack Development - GOMYCODE Nig",
       desc: "Designed and developed a web app with seamless user interactivitiveness using React.",
       className: "md:col-span-2", // change to md:col-span-2
       thumbnail: "/exp2.svg",
     },
     {
-      id: 3,
+      id: 5,
       title: "Web Development Instructor",
       desc: "Led the featuring courses, tutorials, and resources to help others master coding skills.",
       className: "md:col-span-2", // change to md:col-span-2
       thumbnail: "/exp3.svg",
     },
     {
-      id: 4,
+      id: 6,
       title: "Frontend Developer",
       desc: "Developed and maintained user-facing features using modern frontend technologies.",
       className: "md:col-span-2",
@@ -205,13 +219,16 @@ export const navItems = [
     {
       id: 1,
       img: "/git.svg",
+      url: "https://github.com/Johnfavour",
     },
-    {
-      id: 2,
-      img: "/twit.svg",
-    },
+    // {
+    //   id: 2,
+    //   img: "/twit.svg",
+    //   url: "",
+    // },
     {
       id: 3,
       img: "/link.svg",
+      url: "https://www.linkedin.com/in/chukwuemeka-favour-mesoma-794249240/",
     },
   ];
