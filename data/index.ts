@@ -49,7 +49,7 @@ export const navItems = [
   
     {
       id: 5,
-      title: "Currently working as a Frontend developer lead in Ezrillee Solutions Limited",
+      title: "Currently working on a personal project – Waste Management Web Application",
       description: "Project Spotlight",
       className: "md:col-span-3 md:row-span-2",
       imgClassName: "absolute right-0 bottom-0 md:w-96 w-60",
@@ -173,41 +173,48 @@ export const navItems = [
   export const workExperience = [
     {
       id: 1,
-      title: "Ezrillee Solutions Limited • Full-Time",
-      desc: "As a Frontend Developer Lead , I oversee a team of interns while creating responsive, user-friendly web applications. I also translate Figma designs into clean, maintainable code, and ensure a seamless user experience across devices and browsers.",
+      title: "THE OH-RES • Full-Time (12/2025 - Present)",
+      desc: "As a Frontend Developer , I translate Figma designs into clean, maintainable code, and ensure a seamless user experience across devices and browsers.",
       className: "md:col-span-2",
       thumbnail: "/exp4.svg",
     },
     {
       id: 2,
-      title: "Trustscrin • Contract",
+      title: "Ezrillee Solutions Limited • Full-Time (04/2025 - 01/2026)",
+      desc: "As a Frontend Developer Lead , I oversee a team of interns while creating responsive, user-friendly web applications. ",
+      className: "md:col-span-2",
+      thumbnail: "/exp4.svg",
+    },
+    {
+      id: 3,
+      title: "Trustscrin • Contract (01/2025 - 04/2025)",
       desc: "My responsibility is to create responsive user-friendly web applications. I work closely with designers, backend developers, and other team members to implement new features, maintain existing code, and contribute to improving the overall  of the application.",
       className: "md:col-span-2",
       thumbnail: "/exp1.svg",
     },
     {
-      id: 3,
-      title: "Alx Software Engineering • Internship",
-      desc: "Team collaboration in the development of a web-based platform using React.js, enhancing interactivity.",
-      className: "md:col-span-2",
-      thumbnail: "/exp1.svg",
-    },
-    {
       id: 4,
-      title: "Full-Stack Development - GOMYCODE Nig",
-      desc: "Designed and developed a web app with seamless user interactivitiveness using React.",
-      className: "md:col-span-2", // change to md:col-span-2
-      thumbnail: "/exp2.svg",
-    },
-    {
-      id: 5,
-      title: "Web Development Instructor",
+      title: "Web Development Instructor (05/2024 - 10/2024)",
       desc: "Led the featuring courses, tutorials, and resources to help others master coding skills.",
       className: "md:col-span-2", // change to md:col-span-2
       thumbnail: "/exp3.svg",
     },
     {
+      id: 5,
+      title: "Full-Stack Development - GOMYCODE Nig (06/2023 - 11/2023)",
+      desc: "Designed and developed a web app with seamless user interactivitiveness using React.",
+      className: "md:col-span-2", // change to md:col-span-2
+      thumbnail: "/exp2.svg",
+    },
+    {
       id: 6,
+      title: "Alx Software Engineering • Internship (09/2022 - 11/2023)",
+      desc: "Team collaboration in the development of a web-based platform using React.js, enhancing interactivity.",
+      className: "md:col-span-2",
+      thumbnail: "/exp1.svg",
+    },
+    {
+      id: 7,
       title: "Frontend Developer",
       desc: "Developed and maintained user-facing features using modern frontend technologies.",
       className: "md:col-span-2",

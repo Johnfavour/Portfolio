@@ -5,7 +5,7 @@ import { TextGenerateEffect } from "./ui/TextGenerateEffect";
 
 const Hero = () => {
   return (
-    <div className="pb-20 pt-36">
+    <div className="pb-20 pt-20">
       <div>
         <Spotlight
           className="-top-40 -left-10 md:-left-32 md:-top-20 h-screen"
@@ -30,7 +30,7 @@ const Hero = () => {
                 words="Transforming Concepts into Seamless User Experiences"
             />
             <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
-                Hi, I&apos;m Favour, a React.js Developer based in Nigeria.
+                Hi, I&apos;m Favour, a Frontend Developer based in Nigeria.
             </p>
             <a href="#about">
                 <MagicButton 
