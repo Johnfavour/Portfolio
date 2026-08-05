@@ -80,11 +80,11 @@ export const navItems = [
     },
     {
       id: 2,
-      title: "Zentry Landingpage Clone",
-      des: "This project replicates the design and functionality of the original Zentry site, offering a seamless user experience with responsive layouts, dynamic elements and captivating animations.",
-      img: "/zenty.png",
+      title: "AI Resume Builder",
+      des: "A smart resume builder that uses AI to transform rough work history into polished, recuiter-ready resumes",
+      img: "/zentys.png",
       iconLists: ["/re.svg", "/tail.svg"],//, "/stream.svg", "ts.svg" , "/c.svg"
-      link: "https://github.com/Johnfavour/Zentry-Landingpage-clone",
+      link: "https://github.com/Johnfavour/ai-resume-builder",
     },
     {
       id: 3,
