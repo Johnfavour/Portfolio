@@ -49,7 +49,7 @@ export const navItems = [
   
     {
       id: 5,
-      title: "Currently working on a personal project – Waste Management Web Application",
+      title: "Currently working as a freelance developer while building and improving personal projects.",
       description: "Project Spotlight",
       className: "md:col-span-3 md:row-span-2",
       imgClassName: "absolute right-0 bottom-0 md:w-96 w-60",
@@ -99,7 +99,7 @@ export const navItems = [
       title: "Book Riding App",
       des: "Developed a ride booking web application that enables users to enter pickup and destination locations and arrange rides through an intuitive booking interface.",
       img: "/ride.png",
-      iconLists: ["/re.svg", "/tail.svg"],//, "/three.svg", "/gsap.svg , "/ts.svg""
+      iconLists: ["/next.svg", "/tail.svg","ts.svg"],//, "/three.svg", "/gsap.svg , "/ts.svg""
       link: "https://ride-booking-eight.vercel.app/",
     },
   ];
