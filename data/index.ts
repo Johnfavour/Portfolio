@@ -84,7 +84,7 @@ export const navItems = [
       des: "A smart resume builder that uses AI to transform rough work history into polished, recuiter-ready resumes",
       img: "/zentys.png",
       iconLists: ["/re.svg", "/tail.svg"],//, "/stream.svg", "ts.svg" , "/c.svg"
-      link: "https://github.com/Johnfavour/ai-resume-builder",
+      link: "https://ai-resume-builder-five-gules.vercel.app/",
     },
     {
       id: 3,
@@ -96,11 +96,11 @@ export const navItems = [
     },
     {
       id: 4,
-      title: "Book Riding form",
-      des: "Weather-Integrated Ride Booking Platform. It highlights the key feature of weather integration and provides a clear live weather updates",
-      img: "/rides.png",
+      title: "Book Riding App",
+      des: "Developed a ride booking web application that enables users to enter pickup and destination locations and arrange rides through an intuitive booking interface.",
+      img: "/ride.png",
       iconLists: ["/re.svg", "/tail.svg"],//, "/three.svg", "/gsap.svg , "/ts.svg""
-      link: "https://github.com/Johnfavour/Ride-Booking",
+      link: "https://ride-booking-eight.vercel.app/",
     },
   ];
   
@@ -173,48 +173,55 @@ export const navItems = [
   export const workExperience = [
     {
       id: 1,
-      title: "THE OH-RES • Full-Time (12/2025 - Present)",
-      desc: "As a Frontend Developer , I translate Figma designs into clean, maintainable code, and ensure a seamless user experience across devices and browsers.",
-      className: "md:col-span-2",
-      thumbnail: "/exp4.svg",
+      title: "Full-Stack Developer/Frontend Engineer - Freelancer (10/2025 - Present)",
+      desc: "Deliver client web projects on fixed contract timelines, from requirements and technical planning through deployment, working independently with proactive client communication.",
+      className: "md:col-span-2", 
+      thumbnail: "/exp2.svg",
     },
     {
       id: 2,
-      title: "Ezrillee Solutions Limited • Full-Time (04/2025 - 01/2026)",
-      desc: "As a Frontend Developer Lead , I oversee a team of interns while creating responsive, user-friendly web applications. ",
+      title: "Frontend Engineer - THE OH-RES • Full-Time (12/2025 - 03/2026)",
+      desc: "Contributed to the frontend of an Electronic Data Interchange (EDI) platform for exchanging structured business documents and transactions digitally.",
       className: "md:col-span-2",
       thumbnail: "/exp4.svg",
     },
     {
       id: 3,
-      title: "Trustscrin • Contract (01/2025 - 04/2025)",
+      title: "Frontend Engineer Lead - Ezrillee Solutions Limited • Full-Time (04/2025 - 01/2026)",
+      desc: "As a Frontend Developer Lead , I oversee a team of interns while creating responsive, user-friendly web applications. ",
+      className: "md:col-span-2",
+      thumbnail: "/exp4.svg",
+    },
+    {
+      id: 4,
+      title: "Frontend Developer - Trustscrin • Contract (01/2025 - 04/2025)",
       desc: "My responsibility is to create responsive user-friendly web applications. I work closely with designers, backend developers, and other team members to implement new features, maintain existing code, and contribute to improving the overall  of the application.",
       className: "md:col-span-2",
       thumbnail: "/exp1.svg",
     },
     {
-      id: 4,
+      id: 5,
       title: "Web Development Instructor (05/2024 - 10/2024)",
       desc: "Led the featuring courses, tutorials, and resources to help others master coding skills.",
       className: "md:col-span-2", // change to md:col-span-2
       thumbnail: "/exp3.svg",
     },
     {
-      id: 5,
+      id: 6,
       title: "Full-Stack Development - GOMYCODE Nig (06/2023 - 11/2023)",
       desc: "Designed and developed a web app with seamless user interactivitiveness using React.",
       className: "md:col-span-2", // change to md:col-span-2
       thumbnail: "/exp2.svg",
     },
     {
-      id: 6,
+      id: 7,
       title: "Alx Software Engineering • Internship (09/2022 - 11/2023)",
       desc: "Team collaboration in the development of a web-based platform using React.js, enhancing interactivity.",
       className: "md:col-span-2",
       thumbnail: "/exp1.svg",
     },
     {
-      id: 7,
+      id: 8,
       title: "Frontend Developer",
       desc: "Developed and maintained user-facing features using modern frontend technologies.",
       className: "md:col-span-2",
@@ -236,6 +243,6 @@ export const navItems = [
     {
       id: 3,
       img: "/link.svg",
-      url: "https://www.linkedin.com/in/chukwuemeka-favour-mesoma-794249240/",
+      url: "https://www.linkedin.com/in/favour-chukwuemeka-794249240/?isSelfProfile=true",
     },
   ];
