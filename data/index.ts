@@ -72,7 +72,7 @@ export const navItems = [
   export const projects = [
     {
       id: 1,
-      title: "ChatOn Real-time chat app",
+      title: "ChatOn Real-time chat application",
       des: "Developed a real-time chat app enabling instant, secure messaging and user-friendly interface using React.js. ",
       img: "/chat.png",
       iconLists: ["/re.svg", "/tail.svg", "/ts.svg",],//, "/three.svg", "/fm.svg"
